@@ -1,0 +1,10 @@
+#grid{
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+/* body{
+    color: black;
+    background-color:coral;
+} */
